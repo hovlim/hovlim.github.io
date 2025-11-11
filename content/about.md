@@ -1,6 +1,6 @@
 ---
-title: Our Story
-hero: Our story
+title: About
+hero: Help Fund Hovlim’s Celebration
 type: about
 
 menu:
